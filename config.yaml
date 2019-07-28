@@ -4,3 +4,4 @@ mods:
     - name: 'Todo-List'
     - name: 'Bottleneck'
     - name: 'Warehousing'
+    - name: 'Robocharger'
