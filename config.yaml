@@ -5,3 +5,4 @@ mods:
     - name: 'Bottleneck'
     - name: 'Warehousing'
     - name: 'Robocharger'
+    - name: 'kry-inserters'
