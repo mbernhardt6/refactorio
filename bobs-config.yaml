@@ -4,8 +4,7 @@ mods:
     - name: 'Squeak Through'
     - name: 'Todo-List'
     - name: 'Bottleneck'
-    - name: 'Warehousing'
-    - name: 'Robocharger'
+    # Bob's Mods https://forums.factorio.com/viewforum.php?f=51
     - name: 'bobassembly'
     - name: 'bobelectronics'
     - name: 'bobenemies'
