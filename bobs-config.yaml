@@ -4,6 +4,7 @@ mods:
     - name: 'Squeak Through'
     - name: 'Todo-List'
     - name: 'Bottleneck'
+    - name: 'helmod' # https://mods.factorio.com/mod/helmod
     # Bob's Mods https://forums.factorio.com/viewforum.php?f=51
     - name: 'bobassembly'
     - name: 'bobelectronics'
