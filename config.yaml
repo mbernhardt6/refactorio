@@ -6,3 +6,4 @@ mods:
     - name: 'Warehousing'
     - name: 'Robocharger'
     - name: 'kry-inserters'
+    - name: 'helmod' # https://mods.factorio.com/mod/helmod
